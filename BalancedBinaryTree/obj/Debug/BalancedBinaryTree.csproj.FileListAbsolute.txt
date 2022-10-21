@@ -1,0 +1,80 @@
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\BalancedBinaryTree.exe.config
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\BalancedBinaryTree.exe
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\BalancedBinaryTree.pdb
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csprojAssemblyReference.cache
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.MainForm.resources
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.Properties.Resources.resources
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csproj.GenerateResource.cache
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.exe
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.pdb
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\ann.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\cdt.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\cgraph.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\dot.exe
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\fontconfig.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\fontconfig_fix.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\freetype6.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\glut32.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\gvc.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\GVedit.html
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\gvplugin_core.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\gvplugin_dot_layout.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\gvplugin_gd.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\gvplugin_gdiplus.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\gvplugin_neato_layout.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\gvplugin_pango.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\iconv.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\intl.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\jpeg62.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libatk-1.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libcairo-2.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libexpat-1.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libexpat.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libfontconfig-1.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libfreetype-6.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgdk-win32-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgdkglext-win32-1.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgdk_pixbuf-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgio-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libglade-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libglib-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgmodule-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgobject-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgthread-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgtk-win32-2.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libgtkglext-win32-1.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libltdl-3.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libpango-1.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libpangocairo-1.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libpangoft2-1.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libpangowin32-1.0-0.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libpng12.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libpng14-14.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\libxml2.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\ltdl.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\neato.exe
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\New Text Document.txt
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\Pathplan.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\props.txt
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\QtCore4.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\QtGui4.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\twopi.exe
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\vmalloc.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\zlib1.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\config6
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\exparse.h
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\getopt.h
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\Graphviz.ini
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\graphviz\Settings.ini
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\Microsoft.Contracts.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\QuickGraph.Data.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\QuickGraph.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\QuickGraph.Graphviz.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\QuickGraph.Serialization.dll
+D:\YandexDisk\For others\Артем\ВКР\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csproj.CopyComplete
+\\Mac\Home\Desktop\Диплом\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Диплом\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.MainForm.resources
+\\Mac\Home\Desktop\Диплом\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.Properties.Resources.resources
+\\Mac\Home\Desktop\Диплом\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Диплом\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.exe
+\\Mac\Home\Desktop\Диплом\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.pdb
